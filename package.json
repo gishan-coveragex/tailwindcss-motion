@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romboHQ/tailwindcss-motion.git"
+    "url": "git+https://github.com/gishan-coveragex/tailwindcss-motion.git"
   },
   "license": "MIT",
   "files": [
